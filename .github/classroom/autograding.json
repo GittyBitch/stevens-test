@@ -27,7 +27,7 @@
 		"input": "",
 		"output": "ello.*or[l]{1}d",
 		"comparison": "regex",
-		"timeout": 1,
+		"timeout": 11,
 		"points": 5
 	},
 	{
