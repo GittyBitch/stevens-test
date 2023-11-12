@@ -30,7 +30,7 @@ jobs:
       - name: points badge
         uses: emibcn/badge-action@v1
         with:
-          LABEL: 'Points'
+          LABEL: 'Scoring'
           STATUS: ${{ steps.autograder.outputs.points }}
           COLOR: cyan
           path: '.github/badges/points.svg'
