@@ -1,7 +1,7 @@
 {
 	"tests": [
 	{
-		"name": "Simple I/O test",
+		"name": "Simple I/O test modified",
 		"setup": "",
 		"run": "timeout 5 echo \"Hello world\"",
 		"input": "",
