@@ -8,7 +8,7 @@
 		"output": "Hello",
 		"comparison": "included",
 		"timeout": 1,
-		"points": 25
+		"points": 33
 	},
 	{
 		"name": "Exact match",
@@ -18,7 +18,7 @@
 		"output": "Hello",
 		"comparison": "exact",
 		"timeout": 1,
-		"points": 25
+		"points": 44
 	},
 	{
 		"name": "Regex match",
@@ -28,7 +28,7 @@
 		"output": "ello.*or[l]{1}d",
 		"comparison": "regex",
 		"timeout": 11,
-		"points": 25
+		"points": 11
 	},
 	{
 		"name": "Extra credit",
@@ -38,7 +38,7 @@
 		"output": "Hello world",
 		"comparison": "included",
 		"timeout": 1,
-		"points": 25,
+		"points": 33,
 		"extra": true
 	}
 	]
