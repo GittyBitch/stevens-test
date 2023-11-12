@@ -13,12 +13,12 @@
 	{
 		"name": "Exact match",
 		"setup": "",
-		"run": "timeout 5 echo \"Hello world\"",
+		"run": "timeout 5 echo \"Hello world2\"",
 		"input": "",
 		"output": "Hello",
 		"comparison": "exact",
 		"timeout": 1,
-		"points": 3
+		"points": 33
 	},
 	{
 		"name": "Regex match",
